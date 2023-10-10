@@ -1,0 +1,39 @@
+/*Algemene CSS*/
+
+h1, h2, p{
+    font-family: Verdana, Arial, sans-serif;
+}
+* {
+    font-family: 'Roboto', sans-serif;;
+}
+#rodetekst{
+    color: #ff0000;
+}
+.blauwetekst{
+    color: #0000ff;
+}
+.groenetekst{
+    color: #008800;
+}
+h1.blauwetekst{
+    color: #95cdd9;
+}
+.schuinetekst{
+    font-style: italic;
+}
+
+a {
+    color: #b00080FF;
+    text-decoration: none;
+}
+.schuinetekst:hover{
+    font-weight: bold;
+}
+
+a:hover{
+    color: aqua;
+}
+
+/*Opmaak voor header*/
+/*Opmaak voor main*/
+/*...*/
