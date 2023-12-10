@@ -1,0 +1,7 @@
+ul {
+    list-style-type: square;
+}
+ol{
+    list-style-type: lower-roman;
+    /*list-style: url(""); zo kan je een eigen foto gebruiken in plaats van een bolletje*/
+}

@@ -1,0 +1,69 @@
+*{
+    font-family: sans-serif, Verdana;
+}
+body{
+    background-image: url("assets_h4/achtergrond.jpg");
+    background-repeat: repeat;
+}
+h1{
+    height: 44px;
+    color: #FFFFFF;
+}
+a{
+    color: inherit;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: #051D62;
+    width: 700px;
+}
+img{
+    width: 250px;
+    border: 2px #000000 solid;
+}
+header{
+    padding: 20px;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+nav{
+    padding: 20px;
+    background-color: rgba(255,255,255,0.5);
+}
+nav ul{
+    list-style: none;
+    padding: 0;
+}
+main{
+    width: 1000px;
+    margin: 0 auto;
+}
+main section{
+    padding: 20px;
+    margin: 50px 0;
+    border-radius: 10px;
+}
+#Pukkelpop{
+    background-color: rgba(241, 84, 217, 0.5);
+}
+#RockWerchter{
+    background-color: rgba(14,8,181,0.5);
+    color: #FFFFFF;
+}
+#Tomorrowland{
+    background-color: rgba(115,68,106,0.5);
+    color: #FFFFFF;
+}
+#Graspop{
+    background-color: rgba(20,15,8,0.5);
+    color: #FFFFFF;
+}
+#Bastionfestival{
+    background-color: rgba(242,235,156,0.5);
+}
+footer{
+    background-color: rgba(0,0,0,0.8);
+    text-decoration: #FFFFFF;
+    padding: 20px;
+    text-align: center;
+}

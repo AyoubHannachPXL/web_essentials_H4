@@ -1,0 +1,50 @@
+body{
+    background-color: #a54cff;
+}
+h1{
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+#favoriete\ nasheed{
+    background-color: #000000;
+}
+#alqawlo{
+    color: #FFFFFF;
+    margin-right: auto;
+    margin-left: auto;
+}
+#favoriete\ liedjes{
+    color: #FFFFFF;
+    background-color: #008800;
+}
+#favoriete\ albums{
+    color: #FFFFFF;
+    background-color: #ff0000;
+}
+footer{
+    background-color: black;
+    text-transform: capitalize;
+    color: #95cdd9;
+    text-align: center;
+}
+ul, ol{
+    float: none;
+}
+li{
+    color: black;
+    text-decoration: none;
+}
+img{
+    width: 200px;
+}
+main{
+    width: 1000px;
+    margin: 0 auto;
+}
+main section{
+    padding: 20px;
+    margin: 50px 0;
+    border-radius: 10px;
+}

@@ -1,0 +1,8 @@
+p{
+    background-color: #d3d3d3;
+    border: 5px solid #008000 ;
+    padding: 20px;
+    width: 250px;
+    margin: 50px;
+    /*float: right; dit moest niet en gaan we niet leren maar dan kan je die ding rechts van de pagina zetten*/
+}

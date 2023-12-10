@@ -1,0 +1,18 @@
+Enkele tips
+• Gebruik de kleuren #F1EBD9, #DCC066 en #740001.
+
+
+• Alle teksten hebben het Google Font lettertype ‘Roboto Slab’ en de fontfamilie ‘serif’.
+
+
+• Zorg voor de nodige witruimte binnen en buiten de verschillende structuurelementen.
+
+
+
+• De totale breedte van de structuurelementen ‘header’ en ‘main’ zijn 1200px, inclusief de
+witruimtes en randen. De iframe met de Youtube-video strekt zich uit over de volledige
+breedte van het structuurelement waarin het zich bevindt.
+
+
+• Gebruik de waarde ‘auto’ bij de margins aan de linkerkant en de margins aan de
+rechterkant om de structuurelementen te centreren.

@@ -1,0 +1,52 @@
+body{
+    background-color: #151C28;
+}
+h1{
+    text-align: center;
+    color: #ffe14f;
+}
+h1 span{
+    color: #8DAEC6;
+}
+main article{
+    width: 500px;
+    border: 3px solid #ffe14f;
+    border-radius: 10px;
+    margin: 10px auto;
+    padding: 10px;
+}
+main article img{
+    width: 170px;
+}
+
+
+
+
+/* dit is hoe ik het heb gedaan
+*{
+    background-color: #151C28;
+}
+#sound{
+    color: #DCC066;
+    display: inline;
+}
+#board{
+    color: #8DAEC6;
+    display: inline;
+}
+header{
+    text-align: center;
+}
+img{
+    width: 100px;
+}
+article {
+    border: 3px #DCC066 solid;
+    border-radius: 7px;
+    width: 500px;
+    margin: 10px auto;
+}
+main{
+    margin-left: auto;
+    margin-right: auto;
+}

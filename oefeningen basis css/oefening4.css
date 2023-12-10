@@ -1,0 +1,77 @@
+*{
+    font-family: Serif, Roboto
+}
+body{
+    background-color:#F1EBD9 ;
+}
+h1, h2{
+    color: #740001;
+}
+header, main{
+    background-color: #DCC066;
+    border: 4px solid #740001;
+    padding: 50px; /*dat de boxes niet tegen de zijkant van de website komen*/
+    width: 1092px;
+    margin: 20px auto;
+}
+header img{
+    width: 300px;
+}
+main iframe {
+    width: 1092px;
+}
+
+
+
+/*/////////////////////////////////// dit is hoe ik het heb gedaan
+*{
+    font-family: Serif, Roboto
+}
+body{
+    background-color:#F1EBD9 ;
+}
+* article{
+ */
+    padding-left: 30px;
+}
+h1, h3{
+    color: #740001;
+    font-weight: bold;
+}
+h4{
+    font-weight: bold;
+}
+header{
+    padding: 20px;
+    background-color: #DCC066;
+    border: 5px #740001 solid;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1150px;
+}
+img{
+    width: 200px;
+}
+main{
+    width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+}
+section{
+    border: 5px #740001 solid;
+    margin-top: 10px;
+    background-color: #DCC066;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+iframe{
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    display: block;
+    padding-left: inherit;
+}
+#boekenreeks{
+    padding: 30px;
+}

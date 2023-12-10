@@ -1,0 +1,7 @@
+body{
+    background-color: green;
+    background-image: url("/les css/assets h3/d7c612e5e81aa434c2d0dfc060b287aa.jpg");
+    background-repeat: repeat-x; /*zo gaat die de foto elke keer opnieuw weergeven in de breedte als die te klein is voor de gehele x as*/
+    background-attachment: fixed; /*dit gaat die foto op zijn plaats houden in de achtergrond terwijl als er nog text staat je kan scrollen*/
+
+}
